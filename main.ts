@@ -10,7 +10,7 @@ basic.forever(function () {
             # # # # #
             # # # # #
             `)
-        music.playSoundEffect(music.builtinSoundEffect(soundExpression.mysterious), SoundExpressionPlayMode.InBackground)
+        music.playSoundEffect(music.builtinSoundEffect(soundExpression.hello), SoundExpressionPlayMode.InBackground)
         basic.pause(200)
         basic.clearScreen()
         basic.pause(200)
