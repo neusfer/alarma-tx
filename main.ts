@@ -1,4 +1,4 @@
-radio.setGroup(1)
+radio.setGroup(111)
 music.setVolume(35)
 basic.forever(function () {
     if (input.magneticForce(Dimension.Strength) < 600) {
